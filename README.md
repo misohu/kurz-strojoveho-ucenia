@@ -3,6 +3,8 @@ Zdrojový kód ku [YouTube kurzu](https://youtu.be/XbcvFt75XE0) základov strojo
 
 Vitajte na špeciálnom kurze strojového učenia pre absolútnych začiatočníkov. V tomto kurze budem vysvetľovať základy klasifikácie s využitím algoritmu KNN. Kurz Vás naučí základný proces vývoja algoritmov strojového učenia.
 
+Dataset pre tento kurz bude [HR case study dataset](https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study), ktor=y je u+z vopred stiahnutý v priečinku data. Vrelo odporúčam prihlásiť sa do Kaggle je to skvelé miesto na vzdelávanie sa.
+
 V prípade ak chcete finančne podporiť kanál tak viete tak spraviť na mojom Patreone: https://www.patreon.com/informatikasmisom 
 
 #umelainteligencia #strojoveucenie #knn
